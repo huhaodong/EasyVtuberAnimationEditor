@@ -1,0 +1,1 @@
+print([None,None,None,None]+[1,2,3,4])
